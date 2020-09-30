@@ -30,7 +30,7 @@ class PokemonDisplayViewController: UIViewController {
     static let pokemons = [
         Pokemon(name: "Haunter", shadowImage: UIImage(named: "haunter_shadow")!, actualImage: UIImage(named: "haunter")!),
         Pokemon(name: "Kakuna", shadowImage: UIImage(named: "kakuna_shadow")!, actualImage: UIImage(named: "kakuna")!),
-        Pokemon(name: "Charmander", shadowImage: UIImage(named: "char_shadow")!, actualImage: UIImage(named: "char")!),
+        Pokemon(name: "Charmander", shadowImage: UIImage(named: "charmander_shadow")!, actualImage: UIImage(named: "char")!),
         Pokemon(name: "Psyduck", shadowImage: UIImage(named: "psy_shadow")!, actualImage: UIImage(named: "psy")!),
         Pokemon(name: "Horsea", shadowImage: UIImage(named: "seadra_shadow")!, actualImage: UIImage(named: "seadra")!),
         Pokemon(name: "Dragonaire", shadowImage: UIImage(named: "dragonaire_shadow")!, actualImage: UIImage(named: "dragonaire")!),
